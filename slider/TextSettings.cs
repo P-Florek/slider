@@ -4,7 +4,8 @@ using System.Text;
 
 namespace slider
 {
-    internal class ImageSource
+    public class TextSettings
     {
+
     }
 }
